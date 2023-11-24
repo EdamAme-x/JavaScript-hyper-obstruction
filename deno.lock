@@ -1,0 +1,30 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/x/hono@v3.0.0/client/client.ts": "c720020a167139dfe8d6af7b91c0c5db38186722b380fb0bb251bae685a2103e",
+    "https://deno.land/x/hono@v3.0.0/client/index.ts": "7ad089b121f2613a0eaedd3d8aa8307a48bf3bf48f6c38281d6e73ee35f0d7ea",
+    "https://deno.land/x/hono@v3.0.0/client/utils.ts": "781ec703f3e685cf02a201cfa717be111820ef89bebd7cb5968c6823310aebaa",
+    "https://deno.land/x/hono@v3.0.0/compose.ts": "9bc97f737857da061b2294eb9812b7e0ca773acc2e913c11bf93d5732c0469f0",
+    "https://deno.land/x/hono@v3.0.0/context.ts": "b053da7ec49c7a32f10572f951ae68347260ffab62fcce76cbc2ce544fe44d23",
+    "https://deno.land/x/hono@v3.0.0/hono.ts": "4929cefc738a4bd5efea2371f0c5338d27e9de91045b1c223ab98eda5a0364d5",
+    "https://deno.land/x/hono@v3.0.0/http-exception.ts": "e74a5e8504ecf795e9babdc2bab9d4052e1806a7396efc89f8e1ed83e813e3be",
+    "https://deno.land/x/hono@v3.0.0/mod.ts": "e771d1c9f711b78f7540134e44a1ceda308fe0af58cb4c83ce7434c56c224670",
+    "https://deno.land/x/hono@v3.0.0/request.ts": "e3b38e76f7d13596266e644c8598d324c56ae73af263c3bf029f6ffeafdb221b",
+    "https://deno.land/x/hono@v3.0.0/router.ts": "21448bc2e6019574c10fae11237da4367037fa107e68bf3d049cd2fd0efd2adb",
+    "https://deno.land/x/hono@v3.0.0/router/reg-exp-router/index.ts": "52755829213941756159b7a963097bafde5cc4fc22b13b1c7c9184dc0512d1db",
+    "https://deno.land/x/hono@v3.0.0/router/reg-exp-router/node.ts": "8006b5bccb83d9fc98e0562a5545f6dd0be639ce445b089a6171c9c617aa8693",
+    "https://deno.land/x/hono@v3.0.0/router/reg-exp-router/router.ts": "35a405c855cf6d10c350a651169c2c728fd19aaf3d3a0c416e5a06752914e6bd",
+    "https://deno.land/x/hono@v3.0.0/router/reg-exp-router/trie.ts": "567493b301c44174f0895aedb8d055bbecf88f8a25626fa8ca61333bbd0c882c",
+    "https://deno.land/x/hono@v3.0.0/router/smart-router/index.ts": "74f9b4fe15ea535900f2b9b048581915f12fe94e531dd2b0032f5610e61c3bef",
+    "https://deno.land/x/hono@v3.0.0/router/smart-router/router.ts": "1d54f5c87875d856ed5fc2d22a100e1ff31debe3e9d8e9b1cc18d8e5706239f2",
+    "https://deno.land/x/hono@v3.0.0/router/trie-router/index.ts": "3eb75e7f71ba81801631b30de6b1f5cefb2c7239c03797e2b2cbab5085911b41",
+    "https://deno.land/x/hono@v3.0.0/router/trie-router/node.ts": "ca5b6a1ce6b6dc01003809bfa9cb93a323b37b27feee14c64655015deff7d2a9",
+    "https://deno.land/x/hono@v3.0.0/router/trie-router/router.ts": "0a969528a0c1680b552b20f0ca90e484e968ac279be9d5fd952b61a804d680e7",
+    "https://deno.land/x/hono@v3.0.0/utils/body.ts": "b6b5ed679122968a74845df4c5454c677f09adc4f3466d822f3b1397884e540e",
+    "https://deno.land/x/hono@v3.0.0/utils/cookie.ts": "545872bd7af3b455c24fd386ecbccfd161e7d4a0038d6b09b1bb22723602f90a",
+    "https://deno.land/x/hono@v3.0.0/utils/http-status.ts": "2d6003e352c1fe918db663fa4bd2b20bf0b9d4e1699ba5e163f317f00b29d938",
+    "https://deno.land/x/hono@v3.0.0/utils/url.ts": "2cf0f38d976761296ccaf2622b6999b7c0c1d3a1f63f066a6f832288ea7c28d9",
+    "https://deno.land/x/hono@v3.0.0/validator/index.ts": "3dc2c9418dee74333ea8b98642ce112b6d449042bbcefe1e835047fcf2458170",
+    "https://deno.land/x/hono@v3.0.0/validator/validator.ts": "9b2c9983b6b8a31cbc1f687096e232fb159004c15421e39cb050da2ac0f78c95"
+  }
+}
